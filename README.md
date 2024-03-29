@@ -54,8 +54,8 @@
 | 3 | 9 | Eu,como cliente,quero a implementação de um microframework| Website   | 8h | :white_check_mark:           | 8 |
 | 3 | 10 | Eu,como cliente,quero a implementação de Bootstrap,para estilização do site| Website   | 12h |:white_check_mark:          | 8 |
 | 3 | 11 | Eu,como cliente,quero um formulário avaliativo utilizando Python| Website   | 10h |:white_check_mark:          | 9 |
-| 4 | 12 | Eu,como cliente, quero toda documentação do API organizada| Website   | 3h |:no_entry:            | 4 |
-| 4 | 13 | Eu,como cliente, quero ter uma experiencia coesa e funcional no site | Website   | 3h |:no_entry:            | 7 |
+| 4 | 12 | Eu,como cliente, quero toda documentação do API organizada| Website   | 3h |:white_check_mark:            | 4 |
+| 4 | 13 | Eu,como cliente, quero ter uma experiencia coesa e funcional no site | Website   | 3h |:white_check_mark:            | 7 |
 
 <span id="sprint">
     
